@@ -1,9 +1,9 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "Sam Bowman",
+    "title": "Vision Strike Media",
     "description": "",
-    "home_page_url": "https://sambowman.com",
-    "feed_url": "https://sambowman.com/feed.json",
+    "home_page_url": "https://samuelbowman.com",
+    "feed_url": "https://samuelbowman.com/feed.json",
     "user_comment": "",
     "author": {
         "name": "Sam Bowman"
