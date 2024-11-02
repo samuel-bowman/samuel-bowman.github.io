@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://sambowman.com/sitemap.xml
